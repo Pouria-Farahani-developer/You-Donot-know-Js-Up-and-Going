@@ -4,7 +4,7 @@
 <p> what is computer language (Syntax) ?</p>
 <p>The rules for valid format and combinations of instructions is called a computer language,sometimes referred to as its syntax</p>
 <p>what is statements ?</p>
-<p>In a computer language, a group of wors,numbers,and operators that performs a specific task is a statement,In Javascript, a statement might look as follows</p>
+<p>In a computer language, a group of words,numbers,and operators that performs a specific task is a statement,In Javascript, a statement might look as follows</p>
 <pre>
   a = b * 2
 </pre>
