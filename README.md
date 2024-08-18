@@ -17,10 +17,10 @@
   <pre>
     a = b * 2
   </pre>
-  - 2 is a literal value expression.
-  - b is a variable expression,which means to retrieve its current value.
-  - b * 2 is an arthmetic expression,which means to do the multiplication.
-  - a = b * 2 is an assignment expression,which means to assign the result of the b * 2 expression to the variable a 
+  -2 is a literal value expression.
+  -b is a variable expression,which means to retrieve its current value.
+  -b * 2 is an arthmetic expression,which means to do the multiplication.
+  -a = b * 2 is an assignment expression,which means to assign the result of the b * 2 expression to the variable a 
   a general expression that stands alone is also called an expression statement,such as the following: 
   <pre>
     b * 2
