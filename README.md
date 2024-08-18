@@ -10,3 +10,19 @@
 </pre>
 <p>what is variables ?</p>
 <p>The characters a and b are called variables,which are like simple boxes you can store any of your stuff in in programs,variables hold values to be used by the program.think of them as symbolic placeholders for the values themselves. by contrast, the 2 is just a value itself, called a literal value, because it stands alone without being stord in a variable.</p>
+<p>what is expressions ? </p>
+<p>
+  statements are made up of one or more expressions . an expression is any reference to a variable or value, or a set of variable and value combined with operators.
+  for example :
+  <pre>
+    a = b * 2
+  </pre>
+  - 2 is a literal value expression.
+  - b is a variable expression,which means to retrieve its current value.
+  - b * 2 is an arthmetic expression,which means to do the multiplication.
+  - a = b * 2 is an assignment expression,which means to assign the result of the b * 2 expression to the variable a 
+  a general expression that stands alone is also called an expression statement,such as the following: 
+  <pre>
+    b * 2
+  </pre>
+</p>
