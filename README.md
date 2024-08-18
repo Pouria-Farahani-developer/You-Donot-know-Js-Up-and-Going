@@ -8,3 +8,5 @@
 <pre>
   a = b * 2
 </pre>
+<p>what is variables ?</p>
+<p>The characters a and b are called variables,which are like simple boxes you can store any of your stuff in in programs,variables hold values to be used by the program.think of them as symbolic placeholders for the values themselves. by contrast, the 2 is just a value itself, called a literal value, because it stands alone without being stord in a variable.</p>
